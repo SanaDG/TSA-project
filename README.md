@@ -6,9 +6,9 @@ and air intake valves were collected from a compressor's Air Production Unit (AP
 predictive maintenance challenges encountered in the industry. It can be used for failure predictions, anomaly
 explanations, and other tasks.
 Link to the dataset: https://archive.ics.uci.edu/dataset/791/metropt+3+dataset
-# Data Set Characteristics: Multivariate Time series Number of Instances: 15169480
-Attribute Characteristics: Real Number of Attributes 15
-Associated Tracks: Classification, Regression Missing Values N/A
+- Data Set Characteristics: Multivariate Time series Number of Instances: 15169480
+- Attribute Characteristics: Real Number of Attributes 15
+- Associated Tracks: Classification, Regression Missing Values N/A
 # Data Set Information:
 The dataset was collected to support the development of predictive maintenance, anomaly detection, and remaining
 useful life (RUL) prediction models for compressors using deep learning and machine learning methods.
